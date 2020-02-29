@@ -1,0 +1,16 @@
+﻿<html>
+<head>
+	<title>Форми</title>
+</head>
+<body>
+	<form>
+		<labe>Логін</labe> <br>
+		<input tupe="text"> <br><br>
+		
+		<labe>ароль<labe> <br>
+		<input tupe="password"> <br><br>
+		
+		<input tupe="sumbit">
+		</form>
+	</body>
+</html>
